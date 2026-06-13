@@ -1,13 +1,11 @@
 /*
 Author: Hugh Van Roosen
-Date: 6/1/2026
-Purpose: This program calculates the product of two integers.
+Date: 6/11/2026
+Purpose: 
 */
 
 //include iostream for I/O
 #include <iostream>
+//use standard namespace
 using namespace std;
 
-int main(){
-    
-}
